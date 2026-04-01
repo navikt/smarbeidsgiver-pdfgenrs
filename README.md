@@ -36,7 +36,7 @@ Example url: `http://0.0.0.0:8080/api/v1/genpdf/smarbeidsgiver/smarbeidsgiver`
 
 This project is maintained by [navikt/teamsykmelding](CODEOWNERS)
 
-Questions and/or feature requests? Please create an [issue](https://github.com/navikt/smarbeidsgiver-pdfgen/issues)
+Questions and/or feature requests? Please create an [issue](https://github.com/navikt/smarbeidsgiver-pdfgents/issues)
 
 If you work in [@navikt](https://github.com/navikt) you can reach us at the Slack
 channel [#team-sykmelding](https://nav-it.slack.com/archives/CMA3XV997)
