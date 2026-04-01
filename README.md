@@ -1,6 +1,6 @@
 [![Build status](https://github.com/navikt/smarbeidsgiverrs-pdfgen/workflows/Deploy%20to%20dev%20and%20prod/badge.svg)](https://github.com/navikt/smarbeidsgiverrsx-pdfgen/workflows/Deploy%20to%20dev%20and%20prod/badge.svg)
 # smarbeidsgiver-pdfgenrs
-Team Sykmelding sin PDF-generator for arbeidsgivers versjon av sykmeldingen
+Team Sykmelding sin its PDF generator for the employer's version of the sick leave
 
 ## Technologies & Tools
 
