@@ -30,7 +30,9 @@ Example url: `http://0.0.0.0:8080/api/v1/genpdf/smarbeidsgiver/smarbeidsgiver`
 
 ### Example pdf output
 
-![smarbeidsgiver.png](smarbeidsgiver.png)
+[pdf](smarbeidsgiver.pdf)
+
+[![Preview](smarbeidsgiver.png)](smarbeidsgiver.png)
 
 ### Contact
 
